@@ -1,0 +1,8 @@
+service\DeckService.class
+service\implementation\DeckServiceImplementation.class
+service\PlayerService.class
+service\implementation\PlayerServiceImplementation.class
+Game.class
+entity\Player.class
+entity\Deck.class
+entity\Card.class
